@@ -4,6 +4,7 @@
 ## Completed Prelabs
 1. No Pre-lab
 2. [Prelab 2](https://github.com/BenKadosh1/IDD-Fa19-Lab2-Prelab)
+3. [Prelab 3](https://github.com/BenKadosh1/IDD-Prelab-3/blob/master/README.md)
 
 
 ## Completed Labs
